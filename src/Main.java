@@ -4,7 +4,7 @@ import java.math.BigInteger;
 
 public class Main {
 
-    public static String dg = "0123456789ABCDEFGHI";
+    public static String dg = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     public static void main(String[] args) {
         
